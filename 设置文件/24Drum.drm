@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.01">
+  <Drum pitch="0">
+    <head>normal</head>
+    <line>2</line>
+    <voice>0</voice>
+    <name>右鼓心</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    </Drum>
+  <Drum pitch="1">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>左鼓心</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="2">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadXBlack</whole>
+      <half>noteheadXBlack</half>
+      <quarter>noteheadXBlack</quarter>
+      <breve>noteheadXBlack</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>0</voice>
+    <name>右鼓边</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    </Drum>
+  <Drum pitch="3">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadXBlack</whole>
+      <half>noteheadXBlack</half>
+      <quarter>noteheadXBlack</quarter>
+      <breve>noteheadXBlack</breve>
+      </noteheads>
+    <line>0</line>
+    <voice>0</voice>
+    <name>左鼓边</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="4">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadTriangleRightWhite</whole>
+      <half>noteheadTriangleRightWhite</half>
+      <quarter>noteheadTriangleRightWhite</quarter>
+      <breve>noteheadTriangleRightWhite</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>0</voice>
+    <name>右鼓棒</name>
+    <stem>1</stem>
+    <shortcut>C</shortcut>
+    </Drum>
+  <Drum pitch="5">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadTriangleRightWhite</whole>
+      <half>noteheadTriangleRightWhite</half>
+      <quarter>noteheadTriangleRightWhite</quarter>
+      <breve>noteheadTriangleRightWhite</breve>
+      </noteheads>
+    <line>0</line>
+    <voice>0</voice>
+    <name>左鼓棒</name>
+    <stem>1</stem>
+    </Drum>
+  </museScore>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
+<museScore version="3.02">
   <Drum pitch="0">
     <head>normal</head>
     <line>2</line>
@@ -68,5 +68,46 @@
     <voice>0</voice>
     <name>左鼓棒</name>
     <stem>1</stem>
+    </Drum>
+  <Drum pitch="6">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadSlashVerticalEnds</whole>
+      <half>noteheadSlashVerticalEnds</half>
+      <quarter>noteheadSlashVerticalEnds</quarter>
+      <breve>noteheadSlashVerticalEnds</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>0</voice>
+    <name>左鼓心2</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    </Drum>
+  <Drum pitch="7">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadSlashVerticalEnds</whole>
+      <half>noteheadSlashVerticalEnds</half>
+      <quarter>noteheadSlashVerticalEnds</quarter>
+      <breve>noteheadSlashVerticalEnds</breve>
+      </noteheads>
+    <line>0</line>
+    <voice>0</voice>
+    <name>右鼓心2</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="8">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadCircleX</whole>
+      <half>noteheadCircleX</half>
+      <quarter>noteheadCircleX</quarter>
+      <breve>noteheadCircleX</breve>
+      </noteheads>
+    <line>2</line>
+    <voice>0</voice>
+    <name>鼓架</name>
+    <stem>1</stem>
+    <shortcut>E</shortcut>
     </Drum>
   </museScore>
